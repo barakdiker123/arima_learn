@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "arima_learn"
+  site-url: "https://barakdiker.github.io/arima_learn"
+  description: "Creating a example for using arima model"
+  repo-branch: main
+  repo-url: "https://github.com/barakdiker/arima_learn"
